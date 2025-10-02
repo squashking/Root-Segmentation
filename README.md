@@ -112,4 +112,4 @@ For more info see [Roadmap & Final delivery](https://github.com/squashking/Root-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* 
+* Shi J, Xie S, Li W, Wang X, Wang J, Chen Y, Chang Y, Lou Q, Yang W. RPT: An integrated root phenotyping toolbox for segmenting and quantifying root system architecture. Plant Biotechnol J. 2025 Jun;23(6):2095-2109. doi: 10.1111/pbi.70040. Epub 2025 Mar 12. PMID: 40074292; PMCID: PMC12120892.
