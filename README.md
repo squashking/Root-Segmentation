@@ -91,6 +91,12 @@ You can get started by installing SegMATE onto your computer and selecting the O
 
 For more info see [Roadmap & Final delivery](https://github.com/squashking/Root-Segmentation/wiki/Sprint-6-Roadmap-&-Final-Delivery-Timeline)
 
+<!-- Output -->
+## Output
+### First Model
+<img width="293" height="196" alt="image" src="https://github.com/user-attachments/assets/1ccb9f61-a8d1-4f05-9c33-d7602afcea73" />
+<img width="296" height="198" alt="image" src="https://github.com/user-attachments/assets/74dc26eb-fb82-4350-93f8-e1ed57d23426" />
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
