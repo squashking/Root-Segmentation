@@ -11,11 +11,6 @@
     <a href="https://github.com/squashking/Root-Segmentation/wiki"><strong>Explore the Wiki »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -31,7 +26,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li></li><a href="#getting-started">Getting Started</a></li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
   </ol>
@@ -49,9 +44,6 @@ THAT automatically and reliably detects root structures in in situ images, enabl
 UNLIKE manual tracing or threshold-based software that suffers from soil noise and subjectivity, 
 OUR PRODUCT adapts and validates proven research methods specifically to in situ root images, to deliver 2 ready-to-use segmentation models and binary masks tailored to real-world research datasets.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -59,15 +51,11 @@ OUR PRODUCT adapts and validates proven research methods specifically to in situ
 * Photoshop
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 You can get started by installing SegMATE onto your computer and selecting the ONNX model.
-
 
 
 <!-- ROADMAP -->
@@ -103,9 +91,6 @@ You can get started by installing SegMATE onto your computer and selecting the O
 
 For more info see [Roadmap & Final delivery](https://github.com/squashking/Root-Segmentation/wiki/Sprint-6-Roadmap-&-Final-Delivery-Timeline)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -123,12 +108,8 @@ For more info see [Roadmap & Final delivery](https://github.com/squashking/Root-
 | Yihui | Researcher, Developer |
 | Zhizhao | Researcher, Developer |
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
