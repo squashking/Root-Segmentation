@@ -2,7 +2,7 @@
 RPT software is dedicated to root system segmentation, root system inpainting, and root trait extraction
 
 The weights file for esegformer b2 is available for download at
-[https://drive.google.com/file/d/1t_vhK3N35MYI-B-X_FGeD89jWiK3OIEW/view?usp=sharing](https://drive.google.com/drive/folders/1hmT8bI1vsiuNVvG1ZbvI7C5BqR9eZYTr)
+(https://drive.google.com/drive/folders/1hmT8bI1vsiuNVvG1ZbvI7C5BqR9eZYTr)
 
 # Installation Guide
 
@@ -48,7 +48,7 @@ paddle.utils.run_check()
 Clone the project and install required dependencies:
 
 ```bash
-git clone https://github.com/shijiawei124/RPT.git
+git clone https://github.com/squashking/Root-Segmentation/tree/main/RPT.git
 cd RPT
 pip install -r requirements.txt
 ```
@@ -93,5 +93,5 @@ Supports custom training:
 
 ## Project Repository
 
-For detailed code and documentation, visit: [https://github.com/shijiawei124/RPT.git](https://github.com/shijiawei124/RPT.git)
+For detailed code and documentation, visit: (https://github.com/squashking/Root-Segmentation/tree/main/RPT)
 
