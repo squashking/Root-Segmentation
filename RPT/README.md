@@ -1,7 +1,7 @@
 # RPT
 RPT software is dedicated to root system segmentation, root system inpainting, and root trait extraction
 
-The weights file for esegformer b2 is available for download at
+The weights file and train data for esegformer b2 is available for download at
 (https://drive.google.com/drive/folders/1hmT8bI1vsiuNVvG1ZbvI7C5BqR9eZYTr)
 
 # Installation Guide
